@@ -56,7 +56,7 @@ const Header = () => {
                 <li className="nav-li">
                   <NavLink title="features" />
                   <div className="dot" />
-                  <NavLink title="Pricing" />
+                  <NavLink title="pricing" />
                 </li>
 
                 <li className="nav-logo">
@@ -81,7 +81,7 @@ const Header = () => {
                 <li className="nav-li">
                   <NavLink title="faq" />
                   <div className="dot" />
-                  <NavLink title="Download" />
+                  <NavLink title="download" />
                 </li>
               </ul>
             </nav>
