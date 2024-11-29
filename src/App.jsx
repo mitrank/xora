@@ -1,3 +1,4 @@
+import Download from "./sections/Download.jsx";
 import Faq from "./sections/Faq.jsx";
 import Features from "./sections/Features.jsx";
 import Header from "./sections/Header.jsx";
@@ -14,6 +15,7 @@ const App = () => {
       <Pricing />
       <Faq />
       <Testimonials />
+      <Download />
     </main>
   );
 };
