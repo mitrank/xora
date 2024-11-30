@@ -14,12 +14,7 @@ const Download = () => {
           <div className="flex items-center">
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex-256 max-md:flex-100">
               <div className="mb-10">
-                <img
-                  src="/images/xora.svg"
-                  alt="xora"
-                  width={160}
-                  height={55}
-                />
+                <img src="images/xora.svg" alt="xora" width={160} height={55} />
               </div>
 
               <p className="body-1 mb-10 max-w-md">
@@ -42,7 +37,7 @@ const Download = () => {
                       </span>
 
                       <img
-                        src="/images/lines.svg"
+                        src="images/lines.svg"
                         alt="lines"
                         className="absolute size-13/20 object-contain"
                       />
@@ -62,7 +57,7 @@ const Download = () => {
                   <span className="download_preview-dot left-16 bg-p1/15" />
 
                   <img
-                    src="/images/screen.jpg"
+                    src="images/screen.jpg"
                     alt="screen"
                     width={855}
                     height={655}

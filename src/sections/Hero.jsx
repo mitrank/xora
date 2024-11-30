@@ -16,18 +16,18 @@ const Hero = () => {
             </h1>
 
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-              We designed this AI Video Editor to be a simple and easy to
-              use and extremely powerful to bring the words to video
+              We designed this AI Video Editor to be a simple and easy to use
+              and extremely powerful to bring the words to video
             </p>
 
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Try it now</Button>
+              <Button icon="images/zap.svg">Try it now</Button>
             </LinkScroll>
           </div>
 
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
             <img
-              src="/images/hero.png"
+              src="images/hero.png"
               alt="hero"
               className="size-1230 max-lg:h-auto"
             />
